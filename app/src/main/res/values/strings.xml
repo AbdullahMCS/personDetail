@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">My First App</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string name="title_people">People</string>
+    <string name="title_room">Room</string>
+
+    <string name="room_id"><b>Room ID:</b> %s</string>
+    <string name="room_state"><b>Occupied?</b> %s</string>
+    <string name="room_capacity"><b>Capacity:</b> %s</string>
+
+    <string name="person_name">Name: %s %s</string>
+    <string name="person_id">ID: %s</string>
+    <string name="person_jobTitle">Job Title: %s</string>
+    <string name="person_email">Email: %s</string>
+</resources>
